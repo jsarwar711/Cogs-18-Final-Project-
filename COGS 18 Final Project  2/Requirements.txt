@@ -1,0 +1,5 @@
+Use pip to install nltk. 
+!pip install nltk
+
+Use pip to install newspaper3k. 
+!pip install newspaper3k
